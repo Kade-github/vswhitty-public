@@ -1,5 +1,12 @@
 # vswhitty-public
 
+so here we are, vs whitty src. so basicily a lot of this code is really messy and its bad, so like. idk what you guys expected out of vs whitty lol. code is terrible kekw.
+formatting is off on a lot of things because of ports to kade engine and just general miscare for code.
+
+lol
+
+# bee 
+
   
 According to all known laws
 of aviation,
