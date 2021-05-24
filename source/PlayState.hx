@@ -1315,6 +1315,7 @@ class PlayState extends MusicBeatState
 										remove(animation);
 										TOE.fadeOut();
 										tmr.reset(0.1);
+										nwBg.animation.play("gameButMove");
 									}
 								else
 									{
