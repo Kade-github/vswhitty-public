@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whittyDanceTitle.png">
+<!-- Created with whitty-executor.exe -->
+<SubTexture name="Whitty Dancing Beat0000" x="0" y="0" width="576" height="663" frameX="-0" frameY="-1" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0001" x="0" y="0" width="576" height="663" frameX="-0" frameY="-1" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0002" x="576" y="0" width="567" height="662" frameX="-7" frameY="-3" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0003" x="576" y="0" width="567" height="662" frameX="-7" frameY="-3" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0004" x="1143" y="0" width="559" height="661" frameX="-14" frameY="-4" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0005" x="1143" y="0" width="559" height="661" frameX="-14" frameY="-4" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0006" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0007" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0008" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0009" x="554" y="663" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0010" x="554" y="663" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0011" x="554" y="663" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0012" x="554" y="663" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0013" x="1107" y="663" width="561" height="658" frameX="-16" frameY="-7" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0014" x="0" y="1321" width="568" height="673" frameX="-17" frameY="-0" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0015" x="568" y="1321" width="573" height="663" frameX="-3" frameY="-1" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0016" x="568" y="1321" width="573" height="663" frameX="-3" frameY="-1" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0017" x="576" y="0" width="567" height="662" frameX="-7" frameY="-3" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0018" x="576" y="0" width="567" height="662" frameX="-7" frameY="-3" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0019" x="1143" y="0" width="559" height="661" frameX="-14" frameY="-4" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0020" x="1143" y="0" width="559" height="661" frameX="-14" frameY="-4" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0021" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0022" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0023" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0024" x="0" y="663" width="554" height="657" frameX="-18" frameY="-8" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0025" x="1141" y="1321" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0026" x="1141" y="1321" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0027" x="1141" y="1321" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0028" x="1141" y="1321" width="553" height="652" frameX="-19" frameY="-12" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0029" x="1107" y="663" width="561" height="658" frameX="-16" frameY="-7" frameWidth="585" frameHeight="673"/>
+<SubTexture name="Whitty Dancing Beat0030" x="0" y="1321" width="568" height="673" frameX="-17" frameY="-0" frameWidth="585" frameHeight="673"/>
+</TextureAtlas>
