@@ -679,8 +679,6 @@ class PlayState extends MusicBeatState
             if (SONG.stage == 'ballisticAlley')
             {
               trace('pogging');
-			  wBg.x = -600;
-			  wBg.y = -200;
 			  wBg.antialiasing = true;
 			  var bgTex = Paths.getSparrowAtlas('BallisticBackground', 'bonusWeek');
               nwBg = new FlxSprite(-600, -200);
