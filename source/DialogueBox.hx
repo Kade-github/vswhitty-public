@@ -112,6 +112,7 @@ class DialogueBox extends FlxSpriteGroup
 				box.frames = Paths.getSparrowAtlas('speech_bubble_talking', 'shared');
 				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
 				box.animation.addByIndices('normal', 'speech bubble normal', [11], "", 24);
+				box.antialiasing = true;
 		}
 
 		box.animation.play('normalOpen');
@@ -172,6 +173,7 @@ class DialogueBox extends FlxSpriteGroup
 							portraitLeft.animation.addByPrefix('enter', 'Whitty Portrait Crazy', 24, true);
 					}
 
+					portraitLeft.antialiasing = true;
 					portraitLeft.updateHitbox();
 					portraitLeft.scrollFactor.set();
 					add(portraitLeft);
@@ -180,6 +182,7 @@ class DialogueBox extends FlxSpriteGroup
 					portraitRight = new FlxSprite(800, FlxG.height - 489);
 					portraitRight.frames = Paths.getSparrowAtlas('boyfriendPort', 'bonusWeek');
 					portraitRight.animation.addByPrefix('enter', 'BF portrait enter', 24, false);
+					portraitRight.antialiasing = true;
 					portraitRight.updateHitbox();
 					portraitRight.scrollFactor.set();
 					add(portraitRight);
@@ -211,7 +214,10 @@ class DialogueBox extends FlxSpriteGroup
 		if (gaming)
 			dropText.color = 0xFFD89494;
 		else
+		{
 			dropText.color = FlxColor.RED;
+			dropText.antialiasing = true;
+		}
 		add(dropText);
 
 		swagDialogue = new FlxTypeText(240, 500, Std.int(FlxG.width * 0.6), "", 32);
@@ -219,7 +225,10 @@ class DialogueBox extends FlxSpriteGroup
 		if (gaming)
 			swagDialogue.color = 0xFF3F2021;
 		else
+		{
 			swagDialogue.color = FlxColor.BLACK;
+			swagDialogue.antialiasing = true;
+		}
 
 		if (PlayState.SONG.song.toLowerCase() != 'lo-fight' && PlayState.SONG.song.toLowerCase() != 'b-lo-fight' && PlayState.SONG.song.toLowerCase() != 'overhead' && PlayState.SONG.song.toLowerCase() != 'b-overhead')
 			swagDialogue.sounds = [FlxG.sound.load(Paths.sound('pixelText'), 0.6)];
