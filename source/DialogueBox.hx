@@ -181,7 +181,7 @@ class DialogueBox extends FlxSpriteGroup
 	
 					portraitRight = new FlxSprite(800, FlxG.height - 489);
 					portraitRight.frames = Paths.getSparrowAtlas('boyfriendPort', 'bonusWeek');
-					portraitRight.animation.addByPrefix('enter', 'BF portrait enter', 24, false);
+					portraitRight.animation.addByPrefix('enter', 'BF portrait enter', 24, true);
 					portraitRight.antialiasing = true;
 					portraitRight.updateHitbox();
 					portraitRight.scrollFactor.set();
