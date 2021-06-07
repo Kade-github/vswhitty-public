@@ -181,7 +181,7 @@ And begins your career
 at Honex Industries!
 
   
-Will we pick ourjob today?
+Will we pick our job today?
 
   
 I heard it's just orientation.
