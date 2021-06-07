@@ -38,7 +38,7 @@ Let's shake it up a little.
 Barry! Breakfast is ready!
 
   
-Ooming!
+Coming!
 
   
 Hang on a second.
@@ -101,8 +101,8 @@ stop flying in the house!
 Never thought I'd make it.
 
   
-Three days grade school,
-three days high school.
+Three days of grade school,
+three days of high school.
 
   
 Those were awkward.
